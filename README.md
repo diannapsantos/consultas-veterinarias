@@ -27,8 +27,7 @@ Criar uma aplicação interativa em Python para simular o registo e a gestão de
 ```bash
 git clone https://github.com/diannapsantos/consultas-veterinarias.git
 cd consultas-veterinarias
-
----
+```
 
 ## Requisitos
 
