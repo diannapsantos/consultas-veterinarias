@@ -32,7 +32,7 @@ cd consultas-veterinarias
 ## Requisitos
 
 - Python: 3.13.5
-- Bibliotecas:pandas
+- Bibliotecas: pandas
 
 ## Estrutura do Projeto 
 
