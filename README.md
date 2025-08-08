@@ -32,19 +32,19 @@ cd consultas-veterinarias
 ## Requisitos
 
 - Python: 3.13.5
-- Bibliotecas: pandas
+- Bibliotecas: pandas, numpy, matplotlib, openpyxl
 
 ## Estrutura do Projeto 
 
 consultas-veterinarias/
-- main.py                # Ficheiro principal com o menu interativo
-- interface.py           # Interface via terminal
-- interface_gui.py       # Interface gráfica com tkinter (opcional)
-- animais.py             # Módulo de registo de animais
-- dados.py               # Leitura/escrita de dados
-- consultas.py           # Lógica das consultas e recomendações
-- test_consultas.py      # Testes unitários com pytest
-- requirements.txt       # Bibliotecas necessárias
+- main.py (Ficheiro principal com o menu interativo)
+- interface.py (Interface via terminal)
+- interface_gui.py (Interface gráfica com tkinter)
+- animais.py (Módulo de registo de animais)
+- dados.py (Leitura/escrita de dados)
+- consultas.py (Lógica das consultas e recomendações)
+- test_consultas.py (Testes unitários com pytest)
+- requirements.txt (Bibliotecas necessárias)
           
 ## Autora
 Diana Santos
