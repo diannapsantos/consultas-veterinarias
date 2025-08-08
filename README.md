@@ -20,6 +20,8 @@ Criar uma aplicação interativa em Python para simular o registo e a gestão de
 git clone https://github.com/diannapsantos/consultas-veterinarias.git
 cd consultas-veterinarias
 
+2. Navegar para a pasta do projeto
+3. Executar o `main.py`:
 
 ## Requisitos
 - Python 3.x
