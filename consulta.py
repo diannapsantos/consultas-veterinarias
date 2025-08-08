@@ -1,6 +1,3 @@
-def realizar_consulta():
-    print("Consulta em construção...")
-
 import csv
 
 def realizar_consulta():

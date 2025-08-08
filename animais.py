@@ -1,6 +1,3 @@
-def registar_animal():
-    print("Registo de animal em construção...")
-
 import csv
 
 def registar_animal():
@@ -13,3 +10,4 @@ def registar_animal():
         writer.writerow([nome, especie, idade])
 
     print("Animal registado com sucesso!")
+
